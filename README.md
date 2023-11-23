@@ -1,7 +1,9 @@
-### Hi there I am Yuzana 👋
+### Hi there 👋, my name is Yuzana 
+#### I am Frontend Web Developer and Programmer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+Skills: REACT / JS / HTML / CSS / Python / Java
 
 My Recent Projects
 ---------------------
