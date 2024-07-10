@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Yuzana</h1>
-<h3 align="center">Welcome to my profile! I'm a student, Frontend Web Developer and Programmer. I previously consulted @Netpoleon Solutions. Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/yuzanawinn/">connect!</a></h3>
+<h3 align="center" font-family= "Gill Sans", sans-serif;">Welcome to my profile! I'm a student, Frontend Web Developer and Programmer. I previously consulted @Netpoleon Solutions. Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/yuzanawinn/">connect!</a></h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
