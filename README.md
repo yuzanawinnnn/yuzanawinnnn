@@ -3,7 +3,7 @@
 
 I'm a Computer Science student at **Ewha Womans University** and a developer with **3 years of prior industry experience as a Security Engineer** at Netpoleon Solutions. I love building full-stack web applications, exploring AI/computer vision, and creating user-centered interfaces. 
 
-- 🔭 Currently working on full-stack web applications and preparing for **2027 SWE / Cybersecurity internships** & **Google Summer of Code (GSoC)**.
+- 🔭 Currently working on full-stack web applications.
 - 🌱 Focusing on **Backend Architecture, Cloud Infrastructure, and Deep Learning**.
 - 👯 Open to collaborating on open-source web tools, security utilities, and AI projects.
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/yuzanawinn/)**
@@ -38,7 +38,6 @@ I'm a Computer Science student at **Ewha Womans University** and a developer wit
 ### 🚀 Featured Projects
 
 * **[Cat Adoption Database System](#)** *(Java, MySQL, JDBC)* – Relational database and CLI application managing adoption records, medical/fee histories, and staff schedules.
-* **[VR Fear-of-Heights Simulation](#)** *(Unity XR, C#)* – Interactive virtual reality bridge experience designed with progressive exposure mechanics.
 * **[Student Management System](#)** *(Java / Web)* – Academic portal for tracking student records, enrollment, and course administration.
 * **[Burmese Restaurant Website](#)** *(React, JS, CSS)* – Responsive storefront featuring interactive menus and cultural visual styling.
 
