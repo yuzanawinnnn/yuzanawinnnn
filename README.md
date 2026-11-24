@@ -43,6 +43,6 @@ I'm a Computer Science student at **Ewha Womans University** and a software deve
 
 ### 🚀 Featured Projects
 
-- **[Talkative]([https://github.com/yuzanawinnnn](https://github.com/HajarFazillah/SEAquence)** *(Applied AI / NLP & Full-Stack)* – Context-aware Korean conversation simulation and coaching system designed for multinational users *(Ewha Capstone)*.
+- **[Talkative](https://github.com/HajarFazillah/SEAquence)** *(Applied AI / NLP & Full-Stack)* – Context-aware Korean conversation simulation and coaching system designed for multinational users *(Ewha Capstone)*.
 - **[BEAM Student Management](https://github.com/yuzanawinnnn/BEAM-Data-Collection-Website)** *(Full-Stack Web)* – Academic portal for tracking student records, enrollment, and course administration.
 - **[Cat Adoption Database System](https://github.com/yuzanawinnnn/pet-adoption-shop-db)** *(Java, MySQL, JDBC)* – Relational database and console application managing adoption records, medical/fee histories, and staff schedules.
