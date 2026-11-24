@@ -37,7 +37,6 @@ I'm a Computer Science student at **Ewha Womans University** and a developer wit
 
 ### 🚀 Featured Projects
 
-* **[Marketplace Web App](#)** *(Flask, Python, HTML/CSS)* – Full-stack e-commerce platform supporting item registration, user likes, and product reviews.
 * **[Cat Adoption Database System](#)** *(Java, MySQL, JDBC)* – Relational database and CLI application managing adoption records, medical/fee histories, and staff schedules.
 * **[VR Fear-of-Heights Simulation](#)** *(Unity XR, C#)* – Interactive virtual reality bridge experience designed with progressive exposure mechanics.
 * **[Student Management System](#)** *(Java / Web)* – Academic portal for tracking student records, enrollment, and course administration.
