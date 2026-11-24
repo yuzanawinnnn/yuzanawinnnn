@@ -45,6 +45,8 @@ Computer Science student at **Ewha Womans University** and developer with **3 ye
 - **Certified Forcepoint DLP Administrator** — Forcepoint *(2022)*
 - *Additional Training:* Trend Micro Vision One / XDR & Cloud App Security, Cisco CCNA R&S, Armis
 
+---
+
 ### 🚀 Featured Projects
 
 - **[Talkative](#)** *(AI / NLP & Web)* – Context-aware Korean conversation simulation and coaching system designed for multinational users *(Ewha Capstone)*.
